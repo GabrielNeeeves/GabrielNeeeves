@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋,Hi! My name is Gabriel Neves</h1>
-<h3 align="center">I'm an I.T Student at FATEC Rio Preto</h3>
+<h1 align="center">Hi 👋, Hi! My name is Gabriel Neves</h1>
+<img width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1871825051416366016/0399AA127C5441FD61338942DA5E773EEFADAAF9/?imw=630&imh=339&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
+<h3 align="left">I'm an I.T Student at FATEC Rio Preto</h3>
 
 - 🌱 I’m currently learning **Java, Spring Framework, SQL Language**
 
