@@ -6,5 +6,3 @@
 <a href="https://linkedin.com/in/gabriel-neves-554947265" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-neves-554947265" height="30" width="40" />
 </a> 
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielneeeves&show_icons=true&theme=tokyonight)
